@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b54b5e0dd353cc84ab0c8fb004dc6d74, type: 3}
+  m_Name: BuildSettings
+  m_EditorClassIdentifier: TowerLand::TowerLand.Meta.BuildSettings
+  _fadeIn: 0.3
+  _enterDuration: 0.4
+  _spitDuration: 2.2
+  _spitRate: {x: 120, y: 700}
+  _exitDuration: 0.3
+  _holdSpeedUp: 3.5
+  _fadeOut: 0.25
+  _shotInterval: 0.07
+  _recoil: 6
+  _shotSquash: 0.9
+  _hoseRun: 5
+  _hoseSpeed: 70
+  _flightTime: {x: 0.16, y: 0.24}
+  _gravity: 40
+  _flightSpin: 720
+  _brickScale: 0.9
+  _landPop: 0.3
+  _landPopDuration: 0.08
+  _mouthHeight: 4
+  _minMouthHeight: 9
+  _aimShare: 0.55
+  _aimSpeed: 14
+  _topMargin: 0.3

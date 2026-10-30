@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 50e52e0fa4dce4743ab76ba875aca1bc, type: 3}
+  m_Name: ConstructionList
+  m_EditorClassIdentifier: TowerLand::TowerLand.Meta.ConstructionList
+  _constructions:
+  - {fileID: 11400000, guid: 7c8bb8608eac41941863fa5db7ea71c6, type: 2}
+  - {fileID: 11400000, guid: 222f2e6822e03054186a4f29ae3508c7, type: 2}
+  - {fileID: 11400000, guid: 0c1d35a3896d13c42ac0b5ec4dd3d5b9, type: 2}

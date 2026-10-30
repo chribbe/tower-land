@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: World1_Ground
+  m_Shader: {fileID: 4800000, guid: 0cd20b568ddb8274498a5c193a75b4b2, type: 3}
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords: []
+  m_InvalidKeywords: []
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_LockedProperties: 
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _BaseMap:
+        m_Texture: {fileID: 2800000, guid: d78127ee314ec364987a8a0456864c8e, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailMap:
+        m_Texture: {fileID: 2800000, guid: fb5be4e0038432d48a0a782a808740c0, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _AmbientStrength: 1
+    - _FineFade: 60
+    - _FineScale: 2.2
+    - _FineStrength: 0.55
+    - _MediumScale: 9
+    - _MediumStrength: 0.35
+    - _PatchScale: 38
+    - _PatchStrength: 0.6
+    - _Saturation: 0.95
+    - _Wrap: 0.55
+    m_Colors:
+    - _BaseColor: {r: 0.78, g: 0.85, b: 0.84, a: 1}
+    - _PatchTint: {r: 0.78, g: 0.92, b: 0.7, a: 1}
+    - _ShadowColor: {r: 0.66, g: 0.78, b: 0.8, a: 1}
+  m_BuildTextureStacks: []
+  m_AllowLocking: 1

@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3f5705bc7554a034f824e315dc8d5435, type: 3}
+  m_Name: VacuumSettings_Spit
+  m_EditorClassIdentifier: TowerLand::TowerLand.Feel.VacuumSettings
+  _startDelay: 0.1
+  _enterDuration: 0.9
+  _gatherDuration: 0.3
+  _spinUpDuration: 0.4
+  _sweepDuration: 2.8
+  _exitDuration: 0.45
+  _captureRadius: 9
+  _mouthHeight: 3.4
+  _pullDelay: 0.3
+  _airSpeed: 110
+  _airFalloff: 5
+  _airMin: 32
+  _airRamp: 3
+  _funnel: 2
+  _vortex: 0
+  _grip: 14
+  _weight: 10
+  _liftKick: {x: 4, y: 8}
+  _flutter: 4
+  _intakeSpread: 0.75
+  _intakeSpeed: 12
+  _hoseSpeed: 80
+  _hoseAcceleration: 110
+  _hoseSpin: 2.5
+  _hoseRadius: 0.85
+  _ribsPerMetre: 2.2
+  _ribDepth: 0.07
+  _bulge: 0.2
+  _joints: 9
+  _stiffness: 350
+  _damping: 32
+  _twistAmplitude: 0
+  _twistSpeed: 0.9

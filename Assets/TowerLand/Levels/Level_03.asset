@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 83e127ee50f2d81448d9888746983bb6, type: 3}
+  m_Name: Level_03
+  m_EditorClassIdentifier: TowerLand::TowerLand.Levels.LevelConfig
+  _columns: 26
+  _floors: 12
+  _layers: 2
+  _colourCount: 4
+  _seed: 303
+  _pattern: {fileID: 11400000, guid: bd09bb34254c6c3438a62a48f681942e, type: 2}
+  _thumbnail: {fileID: 2800000, guid: 38f310e93a194d54289ab0178411eb13, type: 3}
